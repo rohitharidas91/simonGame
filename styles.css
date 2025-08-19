@@ -55,3 +55,17 @@ p{
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.heart {
+  font-size: 1.8em;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #FEF2BF;
+  text-align: center;
+  padding: 15px;
+  font-family: 'Press Start 2P', cursive;
+}
